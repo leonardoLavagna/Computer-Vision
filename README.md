@@ -4,4 +4,9 @@
 
 We will implement a simple image recognition system based on image filering and color histograms. All te file needed to execute the final notebook can be found in the file branch of this repository.
 
+## Contributors
+- Leonardo Lavagna
+- Edoardo Loru
+- Alessia Sgrigna
+
 **Remark .** This project was part of the Fundamentals of Data Science's course held By Prof. Fabio Galasso @ Sapienza
