@@ -2,6 +2,7 @@
 
 <img width="800" alt="Schermata 2022-07-09 alle 13 40 14" src="https://user-images.githubusercontent.com/91341004/178104078-5df3dd60-b739-49b5-b7f3-91fbefde87ec.png">
 
+Some computer vision experiments using the python library cv2 and some matrix completion techniques
 
 ### What's in here?
 Here you can find:
