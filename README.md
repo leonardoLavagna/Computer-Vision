@@ -10,4 +10,5 @@ Here you can find:
 - A **face detection** system
 - An **image reconstruction** method based on Matrix Completion (ALS method) 
 - The images needed toe execute the previous notebooks.
+- The auxiliary functions needed for image reconstruction (ALS, fastALS).
 
