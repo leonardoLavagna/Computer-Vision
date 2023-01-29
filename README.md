@@ -9,6 +9,7 @@ Here you can find:
 - An **image blurer** used to blur car's plates (the files needed to execute the *image_blurer* notebook can be found in the files branch of this repository)
 - A **face detection** system
 - An **image reconstruction** method based on Matrix Completion (ALS method) 
-- The images needed toe execute the previous notebooks.
 - The auxiliary functions needed for image reconstruction (ALS, fastALS).
 
+### Datasets
+The images needed to execute the previous notebooks can be found in the appropriate folders.
