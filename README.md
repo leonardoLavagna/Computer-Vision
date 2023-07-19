@@ -8,8 +8,7 @@ Some computer vision experiments using the python library cv2 and some matrix co
 Here you can find:
 - An **image blurer** used to blur car's plates (the files needed to execute the *image_blurer* notebook can be found in the files branch of this repository)
 - A **face detection** system
-- An **image reconstruction** method based on Matrix Completion (ALS method) 
-- The auxiliary functions needed for image reconstruction (ALS, fastALS).
+- An **image reconstruction** method based on Matrix Completion (ALS method)
+- A complete **image classification system** based on filters, convolution, and color histograms.
 
-### Datasets
-The images needed to execute the previous notebooks can be found in the appropriate folders.
+The images, auxiliary functions and other material needed for the execution of the programs can be found in the appropriate folders.
