@@ -1,14 +1,8 @@
 # Computer Vision
-
-<img width="800" alt="Schermata 2022-07-09 alle 13 40 14" src="https://user-images.githubusercontent.com/91341004/178104078-5df3dd60-b739-49b5-b7f3-91fbefde87ec.png">
-
-Some computer vision experiments using the python library cv2 and some matrix completion techniques
-
-### What's in here?
-Here you can find:
-- An **image blurer** used to blur car's plates (the files needed to execute the *image_blurer* notebook can be found in the files branch of this repository)
+Here you can find some computer vision experiments using the python library cv2, some matrix completion techniques and others. In particular:
+- An **image blurer** used to blur car's plates 
 - A **face detection** system
-- An **image reconstruction** method based on Matrix Completion (ALS method)
-- A complete **image classification system** based on filters, convolution, and color histograms.
+- An **image reconstruction** method based on [Matrix Completion](https://en.wikipedia.org/wiki/Matrix_completion) (Alternating Least Square method)
+- A complete **image classification system** based on [filters, convolution](https://en.wikipedia.org/wiki/Kernel_(image_processing)), and [color histograms](https://en.wikipedia.org/wiki/Color_histogram).
 
 The images, auxiliary functions and other material needed for the execution of the programs can be found in the appropriate folders.
